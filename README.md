@@ -8,7 +8,7 @@
 <img align="middle" src="_assets/IBM127_TN.jpg" width="800" alt="IBM127_TN"/>
 </p>
 
-### Exactly compute M_z, W_{10}, W_{17} and \tilde{W}_{17}
+### Exactly compute $M_z, W_{10}, W_{17}$ and $\tilde{W}_{17}$
 
 Run this to exactly compute M_z, W_{10}, W_{17} and \tilde{W}_{17} by Clifford expansion theory, respectively
 
@@ -22,9 +22,9 @@ $ matlab -nodesktop -nosplash < Fig4a.m > out_Fig4a 2>&1 &
 
 Our exact results of $\tilde{W}_{17}$ with 5+1 Trotter steps are shown in the file "Exact_Fig4a.dat".
 
-### Approximately compute M_z, W_{10}, W_{17}, \tilde{W}_{17} and Z_{62} by PEPO method
+### Approximately compute $M_z, W_{10}, W_{17}, \tilde{W}_{17}$ and $Z_{62}$ by PEPO method
 
-Run this to approximately compute M_z, W_{10}, W_{17}, \tilde{W}_{17} and Z_{62} by our PEPO method
+Run this to approximately compute $M_z, W_{10}, W_{17}, \tilde{W}_{17}$ and $Z_{62}$ by our PEPO method
 
 ```bash
 $ cd PEPO
