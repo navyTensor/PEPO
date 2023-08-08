@@ -20,6 +20,8 @@ $ matlab -nodesktop -nosplash < Fig3c.m > out_Fig3c 2>&1 &
 $ matlab -nodesktop -nosplash < Fig4a.m > out_Fig4a 2>&1 &
 ```
 
+Our exact results of $W_{17}$ with 5+1 Trotter steps are shown in the file "Exact_Fig4a.dat".
+
 ### Approximately compute M_z, W_{10}, W_{17}, \tilde{W}_{17} and Z_{62} by PEPO method
 
 Run this to approximately compute M_z, W_{10}, W_{17}, \tilde{W}_{17} and Z_{62} by our PEPO method
