@@ -10,7 +10,7 @@
 
 ### Exactly compute $M_z, W_{10}, W_{17}$ and $\tilde{W}_{17}$
 
-Run this to exactly compute M_z, W_{10}, W_{17} and \tilde{W}_{17} by Clifford expansion theory, respectively
+Run this to exactly compute $M_z, W_{10}, W_{17}$ and $\tilde{W}_{17}$ by Clifford expansion theory, respectively
 
 ```bash
 $ cd ExactTNC
