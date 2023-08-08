@@ -1,6 +1,6 @@
 ## Simulation of IBM’s kicked Ising experiment with Projected Entangled Pair Operator
 
- arXiv:2308.03082, https://arxiv.org/abs/2308.03082, by Hai-Jun Liao, Kang Wang, Zong-Sheng Zhou Pan Zhang and Tao Xiang
+ arXiv:2308.03082, https://arxiv.org/abs/2308.03082, by Hai-Jun Liao, Kang Wang, Zong-Sheng Zhou, Pan Zhang and Tao Xiang
 
 ### The tensor network structure we used of IBM's Eagle Processor 
 
