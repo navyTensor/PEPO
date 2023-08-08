@@ -2,7 +2,7 @@
 
  arXiv:2308.03082, https://arxiv.org/abs/2308.03082, by Hai-Jun Liao, Kang Wang, Zong-Sheng Zhou Pan Zhang and Tao Xiang
 
-### The tensor network structure of IBM's Eagle Processor
+### The tensor network structure we used of IBM's Eagle Processor 
 
 <p align="center">
 <img align="middle" src="_assets/IBM127_TN.jpg" width="800" alt="IBM127_TN"/>
