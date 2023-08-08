@@ -22,7 +22,7 @@ $ matlab -nodesktop -nosplash < Fig4a.m > out_Fig4a 2>&1 &
 
 Our exact results of $\tilde{W}_{17}$ with 5+1 Trotter steps are shown in the file "Exact_Fig4a.dat".
 
-### Approximately compute $M_z$, $W_{10}$, $W_{17}$, $\tilde{W}_{17}$ $\rm{and} $Z_{62}$
+### Approximately compute $M_z$, $W_{10}$, $W_{17}$, $\tilde{W}_{17}$ and $Z_{62}$
 Run this to approximately compute $M_z, W_{10}, W_{17}$, $\tilde{W}_{17}$ and $Z_{62}$ by our PEPO method
 
 ```bash
