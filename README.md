@@ -4,7 +4,9 @@
 
 ### The tensor network structure of IBM's Eagle Processor
 
- ![Image text](https://github.com/navyTensor/PEPO/tree/main/_assets/IBM127_TN.jpg)
+<p align="center">
+<img align="middle" src="_assets/IBM127_TN.jpg" width="500" alt="IBM127_TN"/>
+</p>
 
 ### Exactly compute M_z, W_{10}, W_{17} and \tilde{W}_{17}
 
