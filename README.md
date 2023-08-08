@@ -3,7 +3,7 @@
  arXiv:2308.03082, https://arxiv.org/abs/2308.03082, by Hai-Jun Liao, Kang Wang, Zong-Sheng Zhou Pan Zhang and Tao Xiang
 
 ### The tensor network structure of IBM's Eagle Processor
-[IBM127_TN.pdf](https://github.com/navyTensor/PEPO/files/12288371/IBM127_TN.pdf)
+
 
 ### Exactly compute M_z, W_{10}, W_{17} and \tilde{W}_{17}
 
