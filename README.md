@@ -8,7 +8,7 @@
 Run this to exactly compute M_z, W_{10}, W_{17} and \tilde{W}_{17} by Clifford expansion theory, respectively
 
 ```bash
-$ cd Exact_TNC
+$ cd ExactTNC
 $ matlab -nodesktop -nosplash < Fig3a.m > out_Fig3a 2>&1 &
 $ matlab -nodesktop -nosplash < Fig3b.m > out_Fig3b 2>&1 &
 $ matlab -nodesktop -nosplash < Fig3c.m > out_Fig3c 2>&1 &
