@@ -38,7 +38,6 @@ for m = 1 : Nt
     [A] = GetSuTensors(A, Lam);
 
    [Ec, Coef2] = GetExactCircuit(A, EvoX)
-%     [Ec, Coef2] = GetExactCircuit_SmallMem(A, EvoX)
 
     Z62 = real(exp(Coef+Coef2)*Ec)
 
