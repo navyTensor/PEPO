@@ -13,8 +13,9 @@ depth = 1;
 D = 2;
 
 fnm = ['./data/Fig4b_Z62_D', num2str(D)];
-thetaH = linspace(0.0, 1.55, 32);
-thetaH = [thetaH, 1.5707, 0.5*pi]
+thetaH = linspace(0.0, 0.5*pi, 17);
+%thetaH = linspace(0.0, 1.55, 32);
+%thetaH = [thetaH, 1.5707, 0.5*pi]
 Nt = numel(thetaH)
 
 EM = [];
